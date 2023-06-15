@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+/* Định dạng phần header */
+/* #wrapper { */
+/* margin: 70px 100px 70px 100px */
+/* text-align: center; */
+/* } */
+
+.box-name .box-name-1 {
+    text-align: center;
+}
+
+.box-name .box-name-1 i {
+    width: 26em;
+    word-wrap: break-word;
+}
+
+.box-name-1 p.text-1 {
+    width: 26em;
+    word-wrap: break-word;
+}
+
+.box-name-1 .x {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+@page {
+    size: A4;
+    width: 100%;
+}
